@@ -5,6 +5,9 @@ module.exports = require("./make-webpack-config")({
       {
         loader: 'css-loader',
         options: {
+
+
+          
           modules: true,
         },
       },
